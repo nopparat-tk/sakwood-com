@@ -1,0 +1,616 @@
+{
+  "--------------------------- Header": "Section ---------------------------",
+
+  "logo": {
+    "img": "assets/images/resources/logo-1.svg"
+  },
+
+  "menu": {
+    "home": "Home",
+    "teak": "Thai Teak Products",
+    "hardwood": "Hardwoods Products",
+    "contact": "Contact Us"
+  },
+
+  "--------------------------- Home": "Page ---------------------------",
+
+  "banner": {
+    "slide1": {
+      "title1": "Your Source for True",
+      "title2": "Tropical Wood",
+      "text": "Selected Premium Thai Teak & Fine Asian Hardwoods"
+    },
+    "slide2": {
+      "title1": "Where Rarity",
+      "title2": "Meets",
+      "title3": "Artistry",
+      "text": "Each plank carries the DNA of ancient forests. Our curated collection of exotic hardwoods offers materials of unrivaled quality to transform your space into a living masterpiece."
+    },
+    "slide3": {
+      "title1": "Crafting",
+      "title2": "Legacies,",
+      "title3": "Not Just Interiors",
+      "text": "For architects who design tomorrow’s heritage spaces. Our premium hardwoods don’t just fill a room - they define it, creating environments that resonate with sophistication and permanence."
+    },
+    "slide4": {
+      "title1": "Elevated Beyond",
+      "title2": "Ordinary",
+      "title3": "Design",
+      "text": "When you desire far greater than average, we deliver materials that match your ambition. Our exclusive Asian hardwood collection empowers you to create spaces that become destinations."
+    },
+    "slide5": {
+      "title1": "Renowned Woods",
+      "title2": "Visionary",
+      "title3": "Design",
+      "text": "Where the world's treasured hardwoods meet visionary design, we supply the materials. Wood of this distinction turns your blueprints into breathtaking realities, crafting architectural triumphs that speak to the soul."
+    }
+  },
+
+  "about": {
+    "title": "SOUTH ASIA KRAFT WOOD",
+    "subtitle1": "Your trusted partner for first class Asian hardwoods.",
+    "subtitle2": "Specializing in premium Thai Teak & Tropical Hardwoods for extraordinary beauty and champion strength.",
+    "subtitle3": "Your trusted partner for first class Asian hardwoods. Specializing in premium Thai Teak & Tropical Hardwoods for extraordinary beauty and champion strength.",
+    "whyChoose": "Why Choose Us?",
+    "bullets": {
+      "point1": "Outstanding Quality",
+      "point2": "Trusted & Ethical Sourcing",
+      "point3": "Competitive Pricing",
+      "point4": "Timeless Craftsmanship & Lasting Value"
+    }
+  },
+
+  "hero": {
+    "title": "NORTHERN THAI TEAK",
+    "charact": {
+      "title": "Characteristics",
+      "list": {
+        "1": "Quality From the Best Growing Region",
+        "2": "Rich Golden Color",
+        "3": "Smooth Texture",
+        "4": "Resists Warping and Bending",
+        "5": "Resistant Against Pests and Fungi",
+        "6": "Naturally Repels Moisture and Rot",
+        "7": "Withstands Extreme Climate Conditions",
+        "8": "Endures for Centuries"
+      }
+    },
+    "specs": {
+      "title": "Product Specifications",
+      "list": {
+        "1": "Logs Diameter: 60 - 80 cm.",
+        "2": "Humidity: 12 - 14%",
+        "3": "Origin: Northern Region Teak Forests, Thailand (Best Source)"
+      }
+    },
+    "buttonText": "More Details"
+  },
+
+  "hilight": {
+    "title": "Our Products",
+    "flooring": {
+      "title": "FLOORING SOLUTIONS",
+      "desc": {
+        "1": "Teak Parquet",
+        "2": "showcases the class and timeless elegance of this prized wood through stunning design patterns. ",
+        "3": "Teak flooring",
+        "4": "features sturdy, robust boards for generations-long beauty and durability. ",
+        "5": "Teak Decking",
+        "6": "naturally resists water, rot, and insects. The supreme choice for decks, patios, and poolside."
+      }
+    },
+    "wall": {
+      "title": "Wall Panels",
+      "desc": {
+        "1": "TEAK CLADDING",
+        "2": "combines sophistication and warmth to create show-stopping feature walls, an unrivaled building facade, or ceilings touched by refinement. With renowned durability, your teak walls will be low-maintenance and long-lasting."
+      }
+    },
+    "timbers": {
+      "title": "Teak Sawn Timbers",
+      "desc": {
+        "1": "Premium Teak Wood Boards are radiant with the fully displayed patterns and colors exclusively found in real Thai teak. This beauty combined with impressive natural strength and famous durability makes teak sawn timber the wood of choice for ",
+        "2": "furniture, structural applications, and built-in projects."
+      }
+    },
+    "finger": {
+      "title": "Finger-Joint Products",
+      "desc": {
+        "1": "Teak Finger Jointed Boards",
+        "2": "are engineered with a finger-jointed design to increase strength, stability, and size. With longer lengths and enhanced strength, they are a favorite for demanding applications like countertops, large tabletops, stair treads, or continuous wall panels, providing a rich beauty combined with unmatched reliability."
+      }
+    },
+    "hardwoods": {
+      "title": "Tropical Hardwoods",
+      "desc": {
+        "1": "We supply tropical hardwoods for projects of any complexity.",
+        "2": "MERBAU",
+        "3": "and",
+        "4": "YELLOW BALAU",
+        "5": "from Malaysia are the long-lasting, weather-resistant hardwoods for excellence both indoors and outdoors. Reddish Merbau decking makes stunning patios, walkways, and high-traffic areas. Durable Yellow Balau cladding brings soft golden tones to walls while keeping them protected from the weather."
+      }
+    },
+    "buttonText": "More Details"
+  },
+
+  "features": {
+    "feature1": {
+      "title": "Reliable & Transparent",
+      "desc": "Honest pricing, no hidden expenses, and dependable customer service."
+    },
+    "feature2": {
+      "title": "Factory Direct Advantage",
+      "desc": "Factory-direct sourcing offers superior quality at competitive pricing."
+    },
+    "feature3": {
+      "title": "Expert Support",
+      "desc": "Dedicated professionals will guide your project from idea to end."
+    }
+  },
+
+  "whyChoose": {
+    "title": "Get a Call Back from Our Experts",
+    "subtitle1": "Seeking the ideal hardwood timber for your projects?",
+    "subtitle2": "We’re here to help!",
+    "desc1": "Whether for",
+    "desc2": "expert guidance, custom sizing, or a personalized consultation.",
+    "desc3": "Let our team guide your journey every step of the way.",
+    "placeholder": {
+      "name": "Your Name",
+      "phone": "Your Phone No.",
+      "message": "Your Short Message"
+    },
+    "button": "Request a Callback"
+  },
+
+  "premium": {
+    "title1": "Our Premium",
+    "title2": "Tropical Hardwoods",
+    "feature1": {
+      "title": "Built for strength",
+      "desc": "Exceptional strength and durability - designed for tough jobs and built to last generations."
+    },
+    "feature2": {
+      "title": "Naturally Appealing",
+      "desc": "Luxurious interiors, exterior and architectural ideas benefit from rich colors and distinctive grain patterns."
+    },
+    "feature3": {
+      "title": "Rooted in Integrity",
+      "desc": "Responsibly sourced, each piece reflects a legacy of regional workmanship and long-term value."
+    }
+  },
+
+  "woods": {
+    "merbau": {
+      "title": "MERBAU",
+      "des1": "Bold. Resilient. Timeless. Merbau's rich red-brown tones and solid, hefty feel convey a sense of splendor and stability. Built to last, Merbau brings warmth and strength to any environment, indoors or outdoors.",
+      "des2": "Ideal for grand stairs, luxurious flooring, weatherproof decks, heritage-style build-ins, heavy-duty furniture, and feature woodwork with a strong presence.",
+      "charact": {
+        "title": "Characteristics",
+        "list": {
+          "1": "Deep Red-Brown Color",
+          "2": "Smooth, Interlocked Grain",
+          "3": "Extremely Hard & Dense",
+          "4": "Highly Stable & Durable",
+          "5": "Ethically Sourced",
+          "6": "Decades-Long Lifespan"
+        }
+      },
+      "specs": {
+        "title": "Specifications",
+        "bullets": {
+          "point1": "Scientific Name:",
+          "subpoint1": "Intsia spp.",
+          "point2": "Diameter: 120 - 150 cm.",
+          "point3": "Average Dried Weight: 815 kg/m",
+          "point4": "Origin: Malaysia",
+          "point5": "Durability: Class 1"
+        }
+      }
+    },
+    "balau": {
+      "title": "YELLOW BALAU",
+      "des1": "Tough and golden, Yellow Balau admirably withstands the roughest outdoor conditions. It's a favored wood for amazing outdoor living, where strength meets style.",
+      "des2": "Ideal for outdoor spaces such as seaside decks, garden patios, rooftop pathways, outside wall cladding, pergolas, and furniture with long-lasting durability.",
+      "charact": {
+        "title": "Characteristics",
+        "list": {
+          "1": "Warm Golden-Brown Color",
+          "2": "Fine, Consistent Grain",
+          "3": "Extremely Hard & Dense",
+          "4": "Highly Durable",
+          "5": "Ethically Sourced",
+          "6": "Decades-Long Lifespan"
+        }
+      },
+      "specs": {
+        "title": "Specifications",
+        "bullets": {
+          "point1": "Scientific Name:",
+          "subpoint1": "Shorea spp.",
+          "point2": "Diameter: 100 - 200 cm.",
+          "point3": "Average Dried Weight: 850 kg/m³.",
+          "point4": "Origin: Malaysia",
+          "point5": "Durability: Class 1"
+        }
+      }
+    },
+    "buttonText": "More Details"
+  },
+
+  "showcase": {
+    "title1": "Discover Our Showcase of",
+    "title2": "Enduring Masterpieces",
+    "case1": {
+      "title": "British Embassy Bangkok",
+      "desc": "South Asia Kraft Wood is honored to bring you the same premium Thai teak..."
+    },
+    "case2": {
+      "title": "Mrigadayavan Palace",
+      "desc": "known as the 'Palace of Love and Hope,' stands as an enduring symbol of teak’s..."
+    },
+    "case3": {
+      "title": "Symbol of Strength and Prosperity",
+      "desc": "For centuries, Thai teak has been the wood of choice for kings, aristocrats, and..."
+    },
+    "case4": {
+      "title": "Legend of a Live Material",
+      "desc": "In Thai folklore, teak is spoken of as a, “living wood,” believed to possess a..."
+    },
+    "case5": {
+      "title": "Architecture that Inspires",
+      "desc": "Throughout history, Thailand’s temples and spiritual centers have showcased..."
+    }
+  },
+
+  "contact": {
+    "title": "Do You need Any Help?",
+    "subtitle": "Send Us a Message.",
+    "text": "Call us for any inquiry",
+    "phone": "(+7) 911 888 03 88",
+    "place": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "How can we help you? Feel free to get in touch!"
+    },
+    "button": "Submit"
+  },
+
+  "--------------------------- Thai Teak": "Page ---------------------------",
+
+  "thaiTeak": {
+    "breadcrumb": {
+      "title": "Northern Thai Teak",
+      "subtitle": "Elevate Every Space",
+      "link": {
+        "main": "Home",
+        "sub": "Thai Teak"
+      }
+    },
+    "sellPoint": {
+      "feature1": {
+        "title": "Lasting Beauty",
+        "des1": "Golden grain, durable strength,",
+        "des2": "and timeless appeal."
+      },
+      "feature2": {
+        "title": "Premium Thai origin",
+        "des1": "Sourced from the one of the world's",
+        "des2": "finest teak growing locations."
+      },
+      "feature3": {
+        "title": "Smart investment",
+        "des1": "A valuable legacy that persists",
+        "des2": "through time."
+      }
+    },
+    "title": "Northern Thai Teak",
+    "desc": "Our Northern Thai Teak is more than simply wood, it represents nature's perfection and centuries of skill. Discover the distinct characteristics that make it the world's most desirable timber.",
+    "accordion": {
+      "list1": {
+        "title": "Strength from Slow Growth",
+        "desc": "In Northern Thailand, the cooler, drier seasons and higher elevations cause teak trees to develop slowly. This natural process tightens the wood grain, making it extremely solid and sturdy. Slower development also means fewer natural faults, such as knots, which results in lumber that is more durable and strong over time."
+      },
+      "list2": {
+        "title": "Perfect Growing Environment",
+        "desc": "Our Northern Thai Teak grows in rich mountain soils. These soils are rich in natural minerals, which encourage healthy, even tree development. Teak trees benefit from excellent natural drainage, which eliminates defects. This ideal atmosphere allows the teak to grow strong, durable wood with beautiful colors and a desirable straight grain."
+      },
+      "list3": {
+        "title": "Teak Wisdom Through Generations",
+        "desc": "or generations, Thai experts have mastered the technique of teak cultivation. From ancient palaces to temples, Northern teak has always been the preferred material of royalty and expert builders. Our partners, particularly the Forest Industry Organization (FIO), rely on information that has been passed down for centuries. They closely manage forests, cut trees, and harvest at the right moment to ensure maximum quality, fewer knots, and a beautiful, consistent grain in each piece."
+      },
+      "list4": {
+        "title": "Ready for Every Project",
+        "desc": "Northern Thai Teak, grown in a unique mountain environment, boasts a tighter grain, fewer knots, and exceptional strength. This makes it highly resistant to decay, insects, and harsh weather, ideal for luxury interiors and projects demanding lasting beauty and durability."
+      }
+    },
+    "Products": {
+      "title": "Our Northern Thai Teak Products",
+      "list1": {
+        "title": "Parquet",
+        "img": "assets/images/products/Parquet.png",
+        "desc": "Create beautiful indoor floors with attractive designs and outstanding strength. Teak Parquet is a highly durable option that provides timeless luxury to any room.",
+        "lightbox": {
+          "src": "assets/images/pricelist/sakw-teak-parquet.png"
+        }
+      },
+      "list2": {
+        "title": "Flooring",
+        "img": "assets/images/products/Floorboard.png",
+        "desc": "Our durable and attractive teak floorboards offer reliable and beautiful flooring for your home or business. Perfectly suited for high-traffic areas, they provide both performance and timeless charm.",
+        "lightbox": {
+          "src": "assets/images/pricelist/sakw-teak-flooring.png"
+        }
+      },
+      "list3": {
+        "title": "Decking",
+        "img": "assets/images/products/Decking.png",
+        "desc": "Our teak decking is designed for outdoor use and resists water, rot, and insects. It remains gorgeous for years, resulting in magnificent decks, patios, balconies, and poolside areas.",
+        "lightbox": {
+          "src": "assets/images/pricelist/sakw-teak-decking.png"
+        }
+      },
+      "list4": {
+        "title": "Cladding",
+        "img": "assets/images/products/Cladding.png",
+        "desc": "Real teak cladding adds beauty, allure, and opulence to any wall or ceiling. Create a warm and inviting atmosphere for rooms you won't want to leave.",
+        "lightbox": {
+          "src": "assets/images/pricelist/sakw-teak-cladding.png"
+        }
+      },
+      "list5": {
+        "title": "Timber",
+        "img": "assets/images/products/Timber.png",
+        "desc": "Our solid teak wood boards are as attractive as they are functional. They give a foundation that is beyond compare for all forms of fine woodworking, from custom furniture to elaborate interior elements.",
+        "lightbox": {
+          "src": "assets/images/pricelist/sakw-teak-timber-skirting-finger-jointed.png"
+        }
+      },
+      "list6": {
+        "title": "Finger Jointed",
+        "img": "assets/images/products/Finger-Joint.png",
+        "desc": "Finger jointed teak boards provide excellent strength and extremely long lengths. They are great for lengthy countertops, massive tabletops, stair treads, and other large-scale projects that demand solidity.",
+        "lightbox": {
+          "src": "assets/images/pricelist/sakw-teak-timber-skirting-finger-jointed.png"
+        }
+      },
+      "list7": {
+        "title": "Skirting",
+        "img": "assets/images/products/Skirtin.png",
+        "desc": "Fulfill a room's potential with detailed perfection from the finest teak skirting boards. Not just a sturdy protective border, teak skirting also offers the finishing touch of refinement and beauty.",
+        "lightbox": {
+          "src": "assets/images/pricelist/sakw-teak-timber-skirting-finger-jointed.png"
+        }
+      }
+    },
+    "buttonText": "More Details",
+    "download": {
+      "buttonText": "Download Full Price-List",
+      "downloadUrl": "assets/images/pricelist/sakw-teak-pricelist.pdf"
+    }
+  },
+
+  "--------------------------- Hardwoods": "Page ---------------------------",
+
+  "hardwood": {
+    "breadcrumb": {
+      "title": "Tropical Hardwood",
+      "subtitle": "Timeless Woods for Timeless Spaces",
+      "link": {
+        "main": "Home",
+        "sub": "Hardwoods"
+      }
+    },
+    "sellPoints": {
+      "feature1": {
+        "title": "Lasting Strength",
+        "des1": "Built for resistance to use, decay, and",
+        "des2": "insects, hardwood lasts for generations."
+      },
+      "feature2": {
+        "title": "Timeless elegance",
+        "des1": "Rich tones and beautiful grain patterns",
+        "des2": "add depth and character to any space."
+      },
+      "feature3": {
+        "title": "Trusted Sourced",
+        "des1": "Responsible sourcing from renowned",
+        "des2": "facilities ensures business integrity,",
+        "des3": "quality, and competitive pricing."
+      }
+    },
+    "title": "Tropical Hardwoods",
+    "desc": "When strength meets style, Yellow Balau and Merbau take the lead. These tropical hardwoods are designed for use under harsh conditions while adding rich, natural beauty to any project, indoors or outdoors.",
+    "accord": {
+      "list1": {
+        "title": "Remarkable Strength & Stability",
+        "desc": "Yellow Balau offers impressive density and resilience, made to perform under the most demanding conditions. Merbau, with its superior dimensional stability, resists warping and wear. Both species are ideal for structural applications as well as daily use."
+      },
+      "list2": {
+        "title": "Naturally Durable for Generations",
+        "desc": "With outstanding resistance to decay, rot, and insects, these hardwoods are designed to endure the elements. Whether used outdoors or in humid environments, Yellow Balau and Merbau deliver decades of dependable service with minimal maintenance."
+      },
+      "list3": {
+        "title": "Elegant Beauty That Matures Over Time",
+        "desc": "Yellow Balau showcases a fine, consistent grain that contributes an aesthetic allure and soft yellow-brown tones. Merbau offers deep red-brown hues and a smooth, interlocking grain that brings depth and stunning colors. Both woods elevate interiors and exteriors with their unique charms."
+      },
+      "list4": {
+        "title": "Responsibly Sourced, Exceptionally Crafted",
+        "desc": "Our Yellow Balau and Merbau are carefully selected from trusted Southeast Asian regions, in partnership with ethical producers known for consistent quality. Every piece is thoughtfully processed to meet the highest standards of form and function."
+      }
+    },
+    "balau": {
+      "title": "Yellow balau Products",
+      "list1": {
+        "title": "Decking",
+        "desc": "Built for strength and style in high-traffic areas like patios, pool decks, walkways, and boardwalks. Naturally resists rot, insects, and decay, offering long-term performance with minimal upkeep."
+      },
+      "list2": {
+        "title": "Cladding",
+        "desc": "Enhances exterior walls, soffits, and facades with warm golden tones and lasting protection. Durable against harsh weather ideal for both residential and commercial exteriors."
+      },
+      "list3": {
+        "title": "Boards",
+        "desc": "Great for furniture, framing, benches, gates, and heavy-duty joinery. Known for strength, stability, and a clean grain that brings natural beauty to every project."
+      }
+    },
+    "merbau": {
+      "title": "Merbau Products",
+      "list1": {
+        "title": "Decking",
+        "desc1": "Ideal for high-traffic outdoor spaces like",
+        "desc2": "patios, pool areas, balconies, and garden walkways. Its dense, oil-laden wood resists moisture, decay, and insects, keeping its rich color and strength for years. Chosen for both residential and commercial use."
+      },
+      "list2": {
+        "title": "Cladding",
+        "desc1": "Merbau cladding in its rich reddish-brown",
+        "desc2": "tones develop with time, providing long-lasting beauty and powerful protection. Moisture and termite resistance make it ideal for exterior walls, ceilings, facades, and soffits in residences, resorts, and coastal buildings."
+      },
+      "list3": {
+        "title": "Boards",
+        "desc1": "A top choice for furniture, cabinetry,",
+        "desc2": "stairs, door frames, and structural builds. Its rich tone, natural strength, and durability in humid conditions make it perfect for both indoor and semi-outdoor use."
+      }
+    },
+    "buttonText": "Get a Consultation"
+  },
+
+  "--------------------------- Contact": "Us ---------------------------",
+
+  "contactUs": {
+    "breadcrumb": {
+      "title": "Contact",
+      "subtitle": "Excellence Tropical Hardwoods",
+      "link": {
+        "main": "Home",
+        "sub": "Contact"
+      }
+    },
+
+    "info": {
+      "call": {
+        "title": "Speak directly",
+        "text": "With the Hardwoods Specialist.",
+        "link": "Call to Us"
+      },
+      "email": {
+        "title": "Begin Your Masterpiece",
+        "text": "Send Us Your Detailed Inquiry.",
+        "link": "Mail to us"
+      },
+      "chat": {
+        "title": "Private Consultation",
+        "text": "Access to Premium Hardwoods.",
+        "link": "Send Us a Message"
+      }
+    },
+
+    "inner": {
+      "title": "Contact with us",
+      "call": {
+        "text": "Call to Us",
+        "phone": "+7 (911) 888 03 88"
+      },
+      "email": {
+        "text": "Mail to Us",
+        "email": "info@sakw.ru"
+      },
+      "chat": {
+        "text": "Telegram",
+        "contact": "@sakwru"
+      },
+      "address": {
+        "text": "VK",
+        "link": "vk.com/sakwru"
+      }
+    },
+    "form": {
+      "title": "Submit Your Inquiry Today",
+      "place": {
+        "name": "Your Name",
+        "email": "Your Email",
+        "phone": "Your Phone No.",
+        "subject": "Subject",
+        "message": "How can we assist you? Feel free to reach out!"
+      },
+      "buttonText": "Submit"
+    }
+  },
+
+  "--------------------------- Footer": "Section ---------------------------",
+
+  "footer": {
+    "marquee": {
+      "list1": "Tropical Hardwoods",
+      "list2": "Superior Durability",
+      "list3": "Exquisite Aesthetic Appeal"
+    },
+    "bottomText": {
+      "text1": "© 2025 Copyright",
+      "link": "South Asia Kraft Wood",
+      "text2": "All rights reserved"
+    },
+    "bottomMenu": {
+      "link1": "Privacy & Policy",
+      "link2": "Cookies Policy",
+      "link3": "Back to Top"
+    }
+  },
+
+  "--------------------------- Error": "Page ---------------------------",
+
+  "Error404": {
+    "title": "Page Not Found",
+    "imageAlt": "A graphic indicating a 404 error has occurred",
+    "buttonText": "Back To Home"
+  },
+
+  "--------------------------- Show": "Case ---------------------------",
+
+  "showcases": {
+    "case1": {
+      "title": "Global Prestige",
+      "heading": "British Embassy Bangkok",
+      "desc1": "South Asia Kraft Wood is honored to bring you the same premium Thai teak that graces one of the most distinguished diplomatic residences in Southeast Asia, the prestigious British Embassy in Bangkok.",
+      "desc2": "For this project, only the finest materials were chosen to reflect the embassy's commitment to elegance, sustainability, and refined design. The embassy features our Thai teak flooring, crafted from premium, sustainably grown Thai teak, a wood celebrated worldwide. Thai plantation teak offers a rare blend of beauty and resilience, transforming any space into a statement of enduring luxury.",
+      "desc3": "The choice of Thai teak ensures the embassy benefits from a material renowned for its strength, resistance to wear, and natural beauty, ideal for spaces that demand both performance and aesthetics. Thai teak is naturally imbued with protective oils that strengthen the wood to resist moisture, pests, and everyday wear, making it ideal for modern homes, embassies, and luxury developments worldwide. It is perfect for Russia’s cold winters and dry indoor environments, which would damage lesser materials. It is teak wood’s durability and refined character that have made this wood synonymous with sophistication in elite projects across the globe.",
+      "desc4": "We offer you access to the same world-class teak, known for its rich golden color, natural warmth, and unparalleled durability. With South Asia Kraft Wood’s meticulously kiln-dried, sustainably sourced teak, you can bring the same resilience, prestige, and timeless luxury trusted by global institutions to your own home or business!"
+    },
+
+    "case2": {
+      "title": "The Gold Standard of Royalty",
+      "heading": "Mrigadayavan Palace",
+      "desc1": "Known as the 'Palace of Love and Hope,' stands as an enduring symbol of teak’s unmatched ability to preserve beauty across generations. This same Thai teak wood is proudly supplied to you today by South Asia Kraft Wood.",
+      "desc2": "Built in 1923 under the reign of King Vajiravudh (Rama VI), the royal residence was constructed entirely from golden teak, a testament to this wood’s natural resilience, beauty, and ability to stand the test of time. Over a century later, the palace’s structure remains as strong and radiant as the day it was built. Teak columns, floors, and decorative elements stand proudly, showcasing teak's legendary resistance to decay, pests, and challenging climates.",
+      "desc3": "The enduring strength and luster of the palace’s woodwork prove why Thai teak has long been favored for the buildings of royalty and prestigious projects worldwide. Its natural resilience ensures that interiors stay beautiful and structurally sound through lifetimes. The same quality of teak that graces Mrigadayavan Palace is now available to you through South Asia Kraft Wood. With our premium Thai teak, South Asia Kraft Wood brings the legacy of Mrigadayavan Palace to your modern spaces.",
+      "desc4": "You can enjoy a palatial level of excellence with South Asia Kraft Wood's expertly curated and sustainably-grown Thai teak. Whether for luxury homes, stately interiors, or architectural masterpieces, our teak provides you with royal-grade performance and refined elegance, proven over 100 years in one of Thailand's most cherished royal landmarks!"
+    },
+
+    "case3": {
+      "title": "The Symbol of Teak",
+      "heading": "Symbol of Strength and Prosperity",
+      "desc1": "For centuries, Thai teak has been the wood of choice for kings, aristocrats, and master craftsmen, who believed teak symbolized strength, prosperity, and protection. To this day, Thai teak wood remains symbolic for success.",
+      "desc2": "To this day, Thai teak wood remains symbolic for success.",
+      "desc3": "Teak was so prized by European powers that the most prestigious and powerful ships in the British Royal Navy had to be built with teak. Possessing teak was seen not only as a mark of wealth but as an assurance of longevity, security, and prosperity, beliefs that persist today in its use for luxury homes, yachts, and architectural masterpieces around the world.",
+      "desc4": "When you choose premium Thai teak from South Asia Kraft Wood, you’re investing in a symbol of excellence, refinement, and status."
+    },
+
+    "case4": {
+      "title": "The Legend of Teak",
+      "heading": "Legend of a Live Material",
+      "desc1": "In Thai folklore, teak is spoken of as a, “living wood,” believed to possess a natural spirit or energy within its grain.",
+      "desc2": "Many believe that teak carries the essence of the forest, offering protection, good fortune, and harmony to those who build with it. This is why teak was traditionally used for temples, palaces, and sacred spaces. Teak is not simply wood, but a material that, 'lives,' within your home, preserving both beauty and balance for generations.",
+      "desc3": "Now, that same legacy can enhance your home or business with life. From its warm golden tones and rich grain, to its exceptional longevity, South Asia Kraft Wood's Thai teak brings an energy to your interiors and creates an atmosphere that invites balance, well-being, and timeless charm."
+    },
+
+    "case5": {
+      "title": "Thai Teak in Temples",
+      "heading": "Architecture that Inspires",
+      "desc1": "Throughout history, Thailand’s temples and spiritual centers have showcased the profound beauty of Thai teak, the same premium wood now available for your home or project through South Asia Kraft Wood.",
+      "desc2": "Temples like Wat Benchamabophit (The Marble Temple) in Bangkok are admired worldwide for their rich, golden teak wood doors, windows, and intricate carvings.",
+      "desc3": "Now, you can bring this level of beauty and craftsmanship into your own space. Thai teak is visually stunning with glowing grain patterns and lovely tones. Perfect for premium Russian interiors, whether in luxury homes, hotels, or developments, our Thai teak inspires awe and reverence with the lustre and sophistication of this golden wood. With South Asia Kraft Wood, the elegance of sacred architecture will grace your home or business for lifetimes."
+    }
+  }
+}
