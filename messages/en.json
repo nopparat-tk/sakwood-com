@@ -318,7 +318,7 @@
         "desc": "Our Northern Thai Teak grows in rich mountain soils. These soils are rich in natural minerals, which encourage healthy, even tree development. Teak trees benefit from excellent natural drainage, which eliminates defects. This ideal atmosphere allows the teak to grow strong, durable wood with beautiful colors and a desirable straight grain."
       },
       "list3": {
-        "title": "Teak Wisdom Through Generations",
+        "title": "Wisdom Through Generations",
         "desc": "or generations, Thai experts have mastered the technique of teak cultivation. From ancient palaces to temples, Northern teak has always been the preferred material of royalty and expert builders. Our partners, particularly the Forest Industry Organization (FIO), rely on information that has been passed down for centuries. They closely manage forests, cut trees, and harvest at the right moment to ensure maximum quality, fewer knots, and a beautiful, consistent grain in each piece."
       },
       "list4": {
@@ -460,18 +460,15 @@
       "title": "Merbau Products",
       "list1": {
         "title": "Decking",
-        "desc1": "Ideal for high-traffic outdoor spaces like",
-        "desc2": "patios, pool areas, balconies, and garden walkways. Its dense, oil-laden wood resists moisture, decay, and insects, keeping its rich color and strength for years. Chosen for both residential and commercial use."
+        "desc": "Ideal for high-traffic outdoor spaces like patios, pool areas, balconies, and garden walkways. Its dense, oil-laden wood resists moisture, decay, and insects, keeping its rich color and strength for years. Chosen for both residential and commercial use."
       },
       "list2": {
         "title": "Cladding",
-        "desc1": "Merbau cladding in its rich reddish-brown",
-        "desc2": "tones develop with time, providing long-lasting beauty and powerful protection. Moisture and termite resistance make it ideal for exterior walls, ceilings, facades, and soffits in residences, resorts, and coastal buildings."
+        "desc1": "Merbau cladding in its rich reddish-brown tones develop with time, providing long-lasting beauty and powerful protection. Moisture and termite resistance make it ideal for exterior walls, ceilings, facades, and soffits in residences, resorts, and coastal buildings."
       },
       "list3": {
         "title": "Boards",
-        "desc1": "A top choice for furniture, cabinetry,",
-        "desc2": "stairs, door frames, and structural builds. Its rich tone, natural strength, and durability in humid conditions make it perfect for both indoor and semi-outdoor use."
+        "desc1": "A top choice for furniture, cabinetry, stairs, door frames, and structural builds. Its rich tone, natural strength, and durability in humid conditions make it perfect for both indoor and semi-outdoor use."
       }
     },
     "buttonText": "Get a Consultation"

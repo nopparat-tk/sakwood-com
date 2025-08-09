@@ -16,7 +16,7 @@ export default function Breadcrumb3() {
         <div className="container">
           <div className="page-header__inner">
             <div className="page-header__title-box">
-              <h5>{t("breadcrumb.subtitle")}</h5>
+              <p>{t("breadcrumb.subtitle")}</p>
               <h3>{t("breadcrumb.title")}</h3>
             </div>
             <div className="thm-breadcrumb__box">
